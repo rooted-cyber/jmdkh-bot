@@ -1,4 +1,4 @@
-# anasty-bot
+# jmdkh-bot
 ```
 git clone https://github.com/rooted-cyber/jmdkh-bot;cd jmd*;bash st.sh
 ```
